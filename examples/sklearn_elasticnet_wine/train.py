@@ -5,9 +5,9 @@
     To do so, we use the ElasticNet regression algorithm.
 
     TO RUN:
-    Execute the following command (Args optional):
+    Execute the following command from the examples directory (Args optional):
 
-    python examples/sklearn_elasticnet_wine/train.py <alpha> <l1_ratio>
+    python sklearn_elasticnet_wine/train.py <alpha> <l1_ratio>
 '''
 import logging
 import os
