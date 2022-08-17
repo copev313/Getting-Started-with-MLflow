@@ -1,0 +1,6 @@
+mlflow
+cloudpickle==2.1.0
+lightgbm==3.3.2
+pandas==1.4.3
+psutil==5.9.1
+typing-extensions==4.3.0
