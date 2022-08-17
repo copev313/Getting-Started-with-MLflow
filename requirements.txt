@@ -3,3 +3,4 @@ mlflow==1.27.0
 scikit-learn==1.1.2
 lightgbm
 matplotlib
+prophet==1.1
