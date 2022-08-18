@@ -4,3 +4,5 @@ scikit-learn==1.1.2
 lightgbm
 matplotlib
 prophet==1.1
+xgboost==1.6.1
+shap==0.41.0

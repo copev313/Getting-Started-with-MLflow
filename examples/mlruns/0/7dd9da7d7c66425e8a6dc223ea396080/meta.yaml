@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Evan/Documents/GitHub/Getting-Started-with-MLflow/examples/mlruns/0/7dd9da7d7c66425e8a6dc223ea396080/artifacts
+end_time: 1660781258591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 7dd9da7d7c66425e8a6dc223ea396080
+run_uuid: 7dd9da7d7c66425e8a6dc223ea396080
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1660781248241
+status: 3
+tags: []
+user_id: Evan
